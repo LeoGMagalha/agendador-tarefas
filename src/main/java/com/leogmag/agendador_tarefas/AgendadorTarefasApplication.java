@@ -1,4 +1,4 @@
-package com.example.agendador_tarefas;
+package com.leogmag.agendador_tarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
