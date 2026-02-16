@@ -1,4 +1,4 @@
-package com.example.agendador_tarefas;
+package com.leogmag.agendador_tarefas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
